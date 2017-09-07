@@ -1,2 +1,5 @@
 Q: What's the best part about boolean logic?
 A: Even when you're wrong, you're only a bit off!
+
+Q: Why did the programmer quit his job?
+A: He didn't get arrays.
